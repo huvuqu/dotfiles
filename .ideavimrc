@@ -1,0 +1,6 @@
+" ESC 
+inoremap jj <ESC>
+inoremap jk <ESC>
+set relativenumber
+set nu
+
